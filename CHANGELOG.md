@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.21](https://github.com/AlexsJones/llmfit/compare/v1.1.20...v1.1.21) (2026-11-09)
+
+
+### Bug Fixes
+
+* **hardware:** preserve AMD sysfs PCIe lane widths ([#1213](https://github.com/AlexsJones/llmfit/issues/1213)) ([d5260c0](https://github.com/AlexsJones/llmfit/commit/d5260c0413074bf1bd71cfbd24315a7a402f9f4f))
+* match benchmark GPU counts ([#1237](https://github.com/AlexsJones/llmfit/issues/1237)) ([20e94cf](https://github.com/AlexsJones/llmfit/commit/20e94cf454bde4e8d2637eb1d34bf677915138d0))
+* show Vulkan memory heaps in doctor report ([#1238](https://github.com/AlexsJones/llmfit/issues/1238)) ([bd64622](https://github.com/AlexsJones/llmfit/commit/bd64622a8a05a956eb5808560d6557ba2905f458))
+
 ## [1.1.20](https://github.com/AlexsJones/llmfit/compare/v1.1.19...v1.1.20) (2026-11-03)
 
 
